@@ -1,0 +1,11 @@
+:root {
+    --color1: #eaf2e3;
+    --color2: #afbccf;
+}
+section{
+  padding: 100, 0;
+  background: var(--color1);
+}
+.color2{
+  color: var(--color2)
+}
