@@ -2,10 +2,19 @@
     --color1: #eaf2e3;
     --color2: #afbccf;
 }
+
+header{
+  padding: 100px 0;
+  background: var(--color1);
+}
+
 section{
-  padding: 100, 0;
+  padding: 50px 0;
   background: var(--color1);
 }
 .color2{
   color: var(--color2)
+}
+.aligncenter {
+    text-align: center;
 }
