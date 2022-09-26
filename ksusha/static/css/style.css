@@ -1,6 +1,9 @@
 :root {
     --color1: #eaf2e3;
-    --color2: #afbccf;
+    --colorR: #d58d83;
+    --colorY: #ebc85f;
+    --colorG: #85e0a3;
+    --colorB: #8390a3;
 }
 
 header{
@@ -12,8 +15,17 @@ section{
   padding: 50px 0;
   background: var(--color1);
 }
-.color2{
-  color: var(--color2)
+.colorR{
+  color: var(--colorR)
+}
+.colorY{
+  color: var(--colorY)
+}
+.colorG{
+  color: var(--colorG)
+}
+.colorB{
+  color: var(--colorB)
 }
 .aligncenter {
     text-align: center;
